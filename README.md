@@ -5,5 +5,4 @@ Created By: Durgesh Prajapati, Masood Abdul Salam, April Simon, Wesley Addo, and
 
 
 Final Presentation Video:
-
 [![Coffee Snake Final Presentatino Video](https://img.youtube.com/vi/yU2gVFfWfqE/0.jpg)](https://www.youtube.com/watch?v=yU2gVFfWfqE)
